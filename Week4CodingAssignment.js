@@ -1,4 +1,5 @@
 //Coding Assignment - Week 4
+document.write('CODING ASSIGNMENT - WEEK 4');
 
 console.log('Coding Steps:');
 
